@@ -10,7 +10,7 @@ The primary goal is to spike various tech, including:
 - pandas 
 - AWS S3
 - AWS Lambda 
-- Github Actions
+- GitHub Actions
 -  .csv
 
 ## Functionality
@@ -19,7 +19,7 @@ The goal is to have an automated process that validates the format of any .csv f
 
 Uploading will trigger a Lambda to run some data validation code against the .csv file. 
 
-This will also utilise GitHub Actions for CI/CD controls that ensure consistency. 
+This will also utilise GitHub Actions for CI/CD controls that ensure consistency.
 
 ## Usage
 
