@@ -8,8 +8,9 @@ The primary goal is to spike various tech, including:
 - python3
 - PyCharm
 - pandas 
-- AWS S3
-- AWS Lambda 
+- GCS Oauth2
+- GCS Buckets
+- GCS Cloud Functions
 - GitHub Actions
 -  .csv
 
