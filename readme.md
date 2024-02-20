@@ -16,9 +16,9 @@ The primary goal is to spike various tech, including:
 
 ## Functionality
 
-The goal is to have an automated process that validates the format of any .csv files uploaded to an S3 bucket. 
+The goal is to have an automated process that validates the format of any .csv files uploaded to an GCS bucket. 
 
-Uploading will trigger a Lambda to run some data validation code against the .csv file. 
+Uploading will trigger a Cloud Function to run some data validation code against the .csv file. 
 
 This will also utilise GitHub Actions for CI/CD controls that ensure consistency.
 

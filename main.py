@@ -34,6 +34,7 @@ print("list_of_column_names: ", list_of_column_names)
 print("checklist: ", checklist)
 
 
+# Check the data to see if the columns contain the correct headings
 for element in checklist:
     if element not in list_of_column_names:
         print("\u274C " + element + " not found")
